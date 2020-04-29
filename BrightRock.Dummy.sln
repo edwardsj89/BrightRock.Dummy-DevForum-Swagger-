@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brightrock.Dummy.Rest.V002"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brightrock.Dummy.Rest.V001.Tests", "Brightrock.Dummy.Rest.V001.Tests\Brightrock.Dummy.Rest.V001.Tests.csproj", "{000435E7-C268-47D9-8391-AE635EDC1BA0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C5A81F6E-7676-40D7-86C4-CE8E5773AFAC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
