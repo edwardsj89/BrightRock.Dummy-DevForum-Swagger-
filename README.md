@@ -16,4 +16,4 @@ Swagger docs
  - BaseUrl + /swagger/docs/v1
 
 **Note**
-SwaggerConfig.Register must appear before app.UseWebApi
+SwaggerConfig.Register must appear before WebApiConfig.Register(config);
